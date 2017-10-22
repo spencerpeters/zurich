@@ -74,7 +74,5 @@ fabric.properties
 lib/
 lib/*
 
-docs/
-
 */.DS_Store
 

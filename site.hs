@@ -16,8 +16,8 @@ import           Control.Monad (liftM, (<=<), foldM)
 main :: IO ()
 main = hakyllWith config $ do
 
-    match ["images/*"] $ do
-            route   idRoute
+    match "images/*" $ do
+            route idRoute
             let args = ["-", "-resize", "200000@", "-"] in
                compile $ getResourceLBS >>= withItemBody (unixFilterLBS "convert" args)
 --                resize to 200,000 px
@@ -32,7 +32,7 @@ main = hakyllWith config $ do
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
             >>= relativizeUrls
 
-        match ["posts/*"] $ do
+        match "posts/*" $ do
             route $ setExtension "html"
             compile postCompiler
 
@@ -47,17 +47,17 @@ main = hakyllWith config $ do
 
     create ["archive.html"] $ do
         route idRoute
-            compile $ do
-                posts <- recentFirst =<< loadAll (fromGlob $ subdir ++ "posts/*")
-                let archiveCtx =
-                        listField "posts" postCtx (return posts) `mappend`
-                        constField "title" "Archives"            `mappend`
-                        defaultContext
+        compile $ do
+            posts <- recentFirst =<< loadAll "posts/*"
+            let archiveCtx =
+                    listField "posts" postCtx (return posts) `mappend`
+                    constField "title" "Archives"            `mappend`
+                    defaultContext
 
-                makeItem ""
-                    >>= loadAndApplyTemplate "templates/archive.html" archiveCtx
-                    >>= loadAndApplyTemplate "templates/default.html" archiveCtx
-                    >>= relativizeUrls
+            makeItem ""
+                >>= loadAndApplyTemplate "templates/archive.html" archiveCtx
+                >>= loadAndApplyTemplate "templates/default.html" archiveCtx
+                >>= relativizeUrls
 
 --     let createArchive subdir =
 --             create [fromFilePath $ subdir ++ "archive.html"] $ do
@@ -79,7 +79,7 @@ main = hakyllWith config $ do
     match "index.html" $ do
         route idRoute
         compile $ do
-            posts <- take5OfRecentFirst =<< loadAll (fromGlob $ subdir ++ "posts/*")
+            posts <- take5OfRecentFirst =<< loadAll "posts/*"
             let indexCtx =
                     listField "posts" postCtx (return posts) `mappend`
                     constField "title" "Home"                `mappend`
@@ -90,6 +90,8 @@ main = hakyllWith config $ do
                 >>= loadAndApplyTemplate "templates/default.html" indexCtx
                 >>= relativizeUrls
 
+-- This was for when I had the zurich-blog and my main website together
+-- It was in deployment for about 4 hours before I realized I wanted to separate them.
 --     let matchIndex subdir =
 --             match (fromGlob $ subdir ++ "index.html") $ do
 --                     route idRoute
