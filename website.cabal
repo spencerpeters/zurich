@@ -1,0 +1,26 @@
+name:                zurich-blog
+version:             0.1.0.0
+-- synopsis:
+-- description:
+homepage:            https://github.com/spencerpeters/zurich#readme
+license:             BSD3
+license-file:        LICENSE
+author:              Spencer
+maintainer:          sjpeters@uw.edu
+copyright:           Copyright Spencer Peters 2017
+category:            Web
+build-type:          Simple
+extra-source-files:  README.md
+cabal-version:       >=1.10
+
+executable zurich-blog
+  main-is:          site.hs
+  build-depends:    base == 4.*
+                  , hakyll == 4.9.*
+                  , filepath
+                  , process
+                  , pandoc
+                  , containers
+                  , split
+  ghc-options:      -threaded
+  default-language: Haskell2010
