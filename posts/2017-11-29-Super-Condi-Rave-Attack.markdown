@@ -27,7 +27,7 @@ Then, since I STILL even after being totally sleep-deprived had jet-lag insomnia
 
 Then I wrote this log and crashed.
 
-Gratitude Addendum
+### Gratitude Addendum
 
 1. Didn't get annoyed at myself for insomnia
 2. Lunch with Martin was fun--he had a cool intuition about combining random variables under different operations
@@ -36,7 +36,7 @@ Gratitude Addendum
 5. Burgers were amazing, came out perfectly cooked
 6. Probabilistic programming!!
 
-Todo
+### Todo
 
 1. Remember to apply to the Perimeter Institute summer program in January (plus their master's program is cool)
 2. Ask Popescu and Fratalocchi my question
