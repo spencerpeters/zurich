@@ -28,10 +28,12 @@ Then, since I STILL even after being totally sleep-deprived had jet-lag insomnia
 Then I wrote this log and crashed.
 
 Gratitude Addendum
-Didn't get annoyed at myself for insomnia
-Super Kondi was really fun, unique experience!
-Got lots of extra foosball in
-Burgers were amazing, came out perfectly cooked
-Probabilistic programming!!
+
+1. Didn't get annoyed at myself for insomnia
+2. Lunch with Martin was fun--he had a cool intuition about combining random variables under different operations
+3. Super Kondi was really fun, unique experience!
+4. Got lots of extra foosball in
+5. Burgers were amazing, came out perfectly cooked
+6. Probabilistic programming!!
 
 
