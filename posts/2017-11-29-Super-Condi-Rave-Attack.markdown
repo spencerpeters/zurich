@@ -27,4 +27,11 @@ Then, since I STILL even after being totally sleep-deprived had jet-lag insomnia
 
 Then I wrote this log and crashed.
 
+Gratitude Addendum
+Didn't get annoyed at myself for insomnia
+Super Kondi was really fun, unique experience!
+Got lots of extra foosball in
+Burgers were amazing, came out perfectly cooked
+Probabilistic programming!!
+
 
