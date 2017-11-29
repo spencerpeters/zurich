@@ -36,4 +36,11 @@ Gratitude Addendum
 5. Burgers were amazing, came out perfectly cooked
 6. Probabilistic programming!!
 
+Todo
+
+1. Remember to apply to the Perimeter Institute summer program in January (plus their master's program is cool)
+2. Ask Popescu and Fratalocchi my question
+3. Hang out with Alexei more
+
+
 
