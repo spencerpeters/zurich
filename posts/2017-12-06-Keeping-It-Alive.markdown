@@ -21,7 +21,7 @@ At home, typed up problem 3 of RandAlg, did the Jane Street quiz, and set out to
 
 I returned home, a bit disgruntled, worked a little bit. Made myself some tasty eggs, hung out with Juyoung and her friend from Denver who had come to visit (!).
 
-Back to work, finished typing up problem 3, then Skyped Grace! She had sent me this terrific little [game theory demonstration]("ncase.me/trust/"). I walked through it really quickly before we chatted. Do it yourself and see what you find most interesting before reading on:
+Back to work, finished typing up problem 3, then Skyped Grace! She had sent me this terrific little [game theory demonstration]("https://ncase.me/trust/"). I walked through it really quickly before we chatted. Do it yourself and see what you find most interesting before reading on:
 
 My takeaways:
 
