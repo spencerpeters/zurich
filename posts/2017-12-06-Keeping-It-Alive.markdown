@@ -24,6 +24,7 @@ I returned home, a bit disgruntled, worked a little bit. Made myself some tasty 
 Back to work, finished typing up problem 3, then Skyped Grace! She had sent me this terrific little [game theory demonstration]("ncase.me/trust/"). I walked through it really quickly before we chatted. Do it yourself and see what you find most interesting before reading on:
 
 My takeaways:
+
 1. The strength of the Copycat (tit for tat) is not really defending yourself from cheaters, (the cheaters are good at that) but making sure that you can benefit from other Copycats.
 2. Introduction of noise (miscommunication, mistakes, whatever) hurts the Copycat, since two Copycats who start by cheating will always cheat each other, even if the first cheat was a mistake.
 3. Players who are more forgiving will in this case do better, since even though they are more vulnerable to cheaters, they stand a better chance of finding allies.
