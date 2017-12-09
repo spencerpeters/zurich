@@ -37,9 +37,8 @@ Got back to Culmann about 8:00, did laundry, made a quick and eggy dinner, comme
 5. Fun RandAlg exam questions
 6. Oh, didn't mention this! Some people in RandAlg might be in for recreating a 33x style exam study session with the sample exams for the problem set, and getting food together into the bargain :D :D
 
-## Todo
+## Todo, Financial Edition
 1. Spend less money for the rest of the month ;)
-2. Collect back rent money from Mom and Dad (hehehe blogosphere pressure, but don't worry I have plenty until I have to pay rent for this month :P)
 2. Get an internship and get more money (why, Google? Why?!)
 
 
