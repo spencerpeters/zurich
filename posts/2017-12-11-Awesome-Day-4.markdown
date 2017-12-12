@@ -1,0 +1,30 @@
+---
+title: Awesome Day 4
+author: Spencer
+---
+
+O, today today was an awesome day /
+How I wish I were in Sherbrooke now /
+
+Today I got up pretty early, got breakfast and went to Algorithmic Game Theory lecture for the first time since the beginning of the semester (I'd just been reading the lecture notes). I did this because I wanted to meet people to study for the exam with ;P
+
+The lecture was actually not bad (we learned about sponsored search auctions like how Google prices ad space) and I asked some questions, made me wish I'd gone to more earlier (the lecture is just really long and slow paced compared to the notes). Also, I found my friend Sara from RandAlg was in the class. Hung out with her over break; she introduced me to her friend Nerine; also had occasion to get coffee with a bro named Felix; he showed me a cool new coffeemaker. Again, just being confident (and proving it in class with good questions that the prof acknowledges) gives you magic social superpowers, crazy!
+
+After the lecture I went to lunch with Sara and her friend Nika, both from Iran. Learned a bit about the Systems group from Nika. She told me about a cool colloquium this very evening about hardware--something about building memory on top of processors in a layered structure.
+
+Ran back home, on the way back printing out sample exams for the Problem Jam I was organizing with the RandAlg yokels. *I* don't think it really counts as organizing cuz I threw out the idea on a whim and then made a Facebook poll. I changed and went to basketball, which was really fun; played pretty well :) Jerico and Gideon were there.
+
+Ran back to Culmann for the Problem Jam, set out a huge smorgasbord of snacks and tea and sample exams and scratch paper. 3 of my buddies showed up pretty much on time, and we started working. Made some decent progress on the 2014 sample exam, and it was a lot of fun. Vassily came in late with way more snacks, yay!
+
+Then I went to the colloquium. The presenter was a diminutive CS/EE prof from Stanford, an incredibly organized and captivating speaker. He spoke with such vigor I could hardly take my eyes away. He appeared to be on the same level as Fratalocchi, a person who managed a complex lab tackling many pieces of hard challenges, all around the unifying motivation of making abundant-data processing in this brave new data age more computationally practical, and the unifying theme of breaking the 2D-processor paradigm which has yielded diminishing returns and making a 3D layered architecture blending logic with memory. It occurs to me that having such a unified practical motivation and big-picture theme is a luxury afforded only to many-model generalists, since they are the only ones with any hope of tackling all the challenges posed by a practical goal and expanding on a big picture theme in the necessary open ended ways.
+
+ The talk was really interesting and also made me think that, outside of AI research, nanotechnology is where it's at. Whether it's investigating quantum effects or making quantitative models of biological systems, doing crazy optical stuff a la Fratalocci, or doing computer hardware fabrication like this Subhasish Mitra, this is where the technical power and understanding of humankind is being unleashed.
+
+ After the talk there was an apero, hung out with Mark from RIAI a bit there, that was fun! I should have stayed and asked Prof. Mitra my big question about how to specialize (even generalists specialize, in fields not subfields it seems like), but I didn't and I didn't understand all the complicated architectural questions that were being bantered around by the hardcore systems people that were still hanging out. Plus there was another apero for the whole university at the Hauptgebaude. I went there, then home to tell Culmanners, then back again; met the folks I'd been studying RandAlg with; had delicious glühwein. Sent back to Culmann, made dinner with Alexei and Tom (we went to Coop, got some chicken, and made some really tasty chicken paprikash). Then I played a couple of games of foosball with Alexei (2/4, what a battle). Then I went upstairs, took a shower because after that foosball, man, I was drenched.
+
+ Did logistics, got an email from Jane Street saying I'm getting a phone interview based on the results of their test (wooot!), thought about which phone number I should give them.
+
+ Ended up calling Mom, sharing the good news, talking with her and with Izzy for a while. That was great. Fingers crossed for Izzy's big playoff basketball game against Sehome tonight!
+
+Then I made up my mind, replied to the Jane Street recruiter, wrote this log and hit the hay.
+
