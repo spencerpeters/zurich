@@ -14,12 +14,14 @@ After that I went out to Holy Cow with Alexei and played a lot of foosball. Then
 So I watched half of Gladiator, which was pretty entertaining. Then I cleaned my room, put in some laundry, and hit the hay.
 
 ## Gratitude Journal
+
 1. Yuki grin
 2. Good interview!
 3. Movie was fun! Change of pace
 4. When I came down to the kitchen after the movie, there was a rad party going on, a guy with tinfoil taped on his head :) Bizarre.
 
 ## Todo
+
 1. Just frickin' email Fratallocchi. Why not?!
 2. Look over the other two sample exams, two down, two to go.
 3. Smile in the light of day, peer boldly into the darkness
