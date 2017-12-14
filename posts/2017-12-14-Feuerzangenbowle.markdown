@@ -1,0 +1,18 @@
+---
+title: Feuerzangenbowle
+author: Spencer
+---
+
+I woke up this morning a little sluggishly, got breakfast (nice leisurely oatmeal). Got to speak a little German downstairs--felt too tired but embraced it anyway and it was fun, Darya told me to roll my 'r' in my throat rather than in the mouth as in Spanish.
+
+Stupid logistics with insurance forced me to a quick walk up and down the classic Culmann stairs. Then I worked, made myself a swift omelet while listening to a Pedro Domingos talk on headphones (I gotta do that more often!) I wanted to learn if Domingos fit into this categorization of awesome, big-picture motivated generalists I'm making, and I think he does. He spent most of the talk talking about 5 different categories of approaches to Machine Learning, and how his most important work merged two categories considered totally distinct. This is his big picture goal--to unify the separate disciplines and algorithms within AI into a learning algorithm of unprecedented scope.
+
+QI at Hongg was ok, feeling pretty behind. I stuck it out at the exercise section trying to understand what was going on in the homework.
+
+Back to home, finished the talk. I got off the bus and was struck with a random gust of happiness and energy. Ran up the hill to Culmann, worked a bit more. Then I was struck with a random gust of ennui and struggle. I decided to hit the gym but didn't want to do any of the classes, so I hung out in the room with the ellipticals and treadmills going from one to the other trying to listen to my ML podcast. It was so loud I could hardly hear, so eventually I switched on some Rammstein, which someone had just recommended to me for the gym (Mike?). It was perfect for my mood. I went up to the other weight room and tried to see how much weight I could do on the pull-down machine (trying this max-weight strategy recommended, believe it or not, in *Antifragile*) I got to around 75 kilos, wasn't maxed out yet but had to pass the turn.
+
+Started the walk home; noticed there was an event, checked it out, there was this delicious drink called Feuerzangenbowle that the math and physics students were making (and watching a comedic movie of the same name). I proceeded to get some, walk to the CAB, jump into foosball with a random guy, walk back for more Feuerzangenbowle, wait and watch some of the random movie while more of the drink was being prepared by burning a sugar cone soaked in rum over mulled wine... It was really fun! This was following my new dogma of opportunism over optimization. Reclaiming opportunism is avery important tenet of my new philosophy--I had given up on opportunism because I had been doing it too much like optimization and suffering FOMO, but I'm taking it back now :)
+
+When I got back I made myself a delicious pair of burgers with salad and ate it with garlic bread. Got in on Mia's story about this yokely guy who is aggressively into her, who she doesn't even like, but ended up connecting with someone in Culmann who needed to sublet a room because she was too nice and people needed to sublet rooms. So now this fellow will be in Culmann, Mia is rather annoyed. It was entertaining because I swore roundly at one point in the story and everyone just died of hilarity.
+
+Then Betty and Anna came in and wanted to go to the Christmas markets so I went with them. We didn't spend too long there but it was nice. I got back, made some tea, did my laundry, typed this entry, and then crashed out :)
