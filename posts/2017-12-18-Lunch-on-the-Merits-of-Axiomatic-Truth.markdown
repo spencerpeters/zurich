@@ -1,0 +1,22 @@
+---
+title: Lunch on the Merits of Axiomatic Truth
+author: Spencer
+---
+
+Ah, my last day in Zürich for a little while! The snow lay freshly over everything and the sun was teasing the ground with flitting rays.
+
+I read some lecture notes for Game Theory--we learned about Best Response games, and a method for solving them by eliminating strategies which are never best responses. An example of a well-designed best response game is the Border Gateway routing protocol; and these types of games are good for eliciting understandable player behavior in any kind of situation where the players make decisions asynchronously.
+
+Then I was off to eat lunch with Carolie, from QI! We met in the Untere Mensa and had an absolutely terrific lunch. We started talking about math, and I tried out some of my ideas about specialists and generalists. Carolie responded with a steelmanning of axiomatic reasoning for general decision making (hedgehoggy thinking) and I tried to explain that I was once too a hedgehog but no longer convinced it was the best thing to do. We got into a great conversation about Venkat's Robust Tower of Partially Unreliable Knowledge, and clarified some building principles for this tower (support a higher-level conclusion with nonoverlapping, ideally somewhat opposing lower conclusions so that if one fails the other is more likely to be right). We got, of course, into the absolute limits of our knowledge (with consciousness, utilitarianism, and the other terrifying contents of my mental bestiary), and to my conclusion that absolute truth, at least in the form that can be written down in axioms and derived rules, can't be attained. Carolie then asserted the Spencer t-2 stance that without some kind of axiomatic system representing absolute truth, we could not avoid wrong decisions and ruin; therefore such system must exist. (Maybe I'll send her some Meaningness. Gotta keep the next conversation focused on practical matters, like how to obtain power and influence :P) We got into a vibrant debate about the soundness of (me) going after power and influence in the world, given that I have no absolute truth to martial my actions behind. In the midst of this discussion,
+
+I had to bail to go hiking with Simon! I sprinted like a madman through the ice and snow down to the HB, barely missed the 13:58 train to Leimbach. Caught the next one and met Simon (from RandAlg) at Leimbach. It was absolutely stunning there. Simon led me through some really cool forests, snow just blazing from the tree tops. We talked about graph theory, which we share enthusiasm for, and practical applications of nice CS theory stuff which people should use but don't. I egged Simon into posting pictures to the RandAlg group chat, to tease others for not coming--he wanted to do it but felt bad about spamming the chat, which I thought was absolute Spencer t-0.5 hogwash. We started a fun dynamic on the chat, everyone posting snow pictures and poor Aleks stuck inside studying, sending thumbs.
+
+After some truly beautiful hiking, we took the cable car back to Leimbach and I went back to the HB. Bought a jar of peanut butter at Migros (plans!) and went to a Glühwein Apero at the CAB. Got my Glühwein and wandered around until I found Vassily and Erik, joined their group for some fun conversation, very jovial and Christmas-y vibes! Took one for the road and walked back to Culmann where I started in on a frenzy of packing--I had to take nearly everything back with me that I didn't want to have traveling after exams finished. And I had to make myself food. And do laundry. And clean the bathrooms. But this is the kind of thing I've trained for for years, and it was in the end no trouble. I had time to spare, played foosball with Alexei said goodbye to Juyoung who wouldn't be back in Culmann :(. That was really lovely, smiles and hugs and Instagram-following guarantees (she's going to be traveling in Vietnam and elsewhere in Asia for a while, pretty cool!)
+
+Went downstairs and said goodbye to Ruth and Eric and Suraj, along with hugs for Anna and Betty and Mia and Alice et al. Mia had made a really tasty Italian cake and I managed to eat two slices before my companions urged me out the door to catch the bus.
+
+On the bus, I sipped a can of Qüollfrisch and fell into a fitful sleep, which was really not very pleasant. Apparently beer = log-like sleep is not valid for me. Managed to get a little sleep, I hoped, before arriving in Frankfurt airport at 6am.
+
+
+
+
