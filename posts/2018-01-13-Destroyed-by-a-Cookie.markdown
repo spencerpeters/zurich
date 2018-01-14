@@ -29,7 +29,7 @@ Some things about noise:
 
 1. When there is enough signal in your life, it's easy to neglect the noise--but in a liminal passage, as I am now, noise is harder to ignore.
 2. Noise is hard to make sense of--partially why I was so confused when I went out to walk.
-3. Noise confuses optimizers. But opportunizers use noise. If they're given a random gift by life, they exploit it to the fullest extent possible; but in the opposite situation, they work to minimize the problem. Noise opens doors that you can sneak through and then convince people you belong on the other side of. It causes you to learn things about yourself (case in point). It rarely closes doors you can't reopen. Ergo, stop trying to *explain* noise, just become sensitive to its power.
+3. Noise confuses optimizers. But opportunizers use noise. They are antifragile, in [Taleb's](https://smile.amazon.com/Antifragile-Things-That-Disorder-Incerto-ebook/dp/B0083DJWGO/ref=sr_1_1?ie=UTF8&qid=1515889794&sr=8-1&keywords=taleb+antifragile) sense. If they're given a random gift by life, they exploit it to the fullest extent possible; but in the opposite situation, they work to minimize the problem. Noise opens doors that you can sneak through and then convince the world you belong on the other side of. It causes you to learn things about yourself (case in point). It rarely closes doors you can't reopen. Ergo, stop trying to *explain* noise, just become sensitive to its power.
 
 Ok, another article I should move to my main blog! But I'll just conclude the day.
 
