@@ -1,0 +1,21 @@
+---
+title: RIAI Rave
+author: Spencer
+---
+
+Breakfast, tidied up cover letters.
+
+Hoops! Pretty good though my bod was worn out from yesterday.
+
+Back home, met Martin and Daniel to study for RIAI. I made myself a delicious pasta and burger for lunch, along with a cucumber salad. Got to try to help those guys with Bayes nets. It's always interesting to see what I see that other people often don't (versus what they see that I miss). My ability to generate little checks and reasonability arguments to make sure that I'm going in the right direction just fades into the background for me, but I forget how nontrivial it is. As well as the ability to infer things by demanding consistency from the subject or the notation--often an interpretation of an equation or something like that just can't be right because it would conflict with another known interpretation of nearly the same notation or nearly the same idea. This gets me a long way in math discussions where I don't really know the subject matter.
+
+Then Gideon showed up and we started work on RIAI. We started on an interval analysis homework problem. The first one was easy, but the second one looked like a pain, so I wrote a little minimal interval arithmetic implementation and ran it :D :D We talked about abstract interpretation in general, and a few other things, then called it a day.
+
+Daniel and I went to the Mensa for dinner. I really like Daniel :) But I don't hang out with him very often. I don't know why, whether it's because he's kind of introverted and I don't see him around very much? He's not actually that introverted...
+
+Got back to Culmann and had a bathroom cleaning waiting for me. I chowed on a bowl of cereal first, then got to work. Things got out of hand. By the end, I'd even mopped and vacuumed my own room into the bargain! And did I mention, this is my LAST mandatory cleaning of ANY KIND in CULMANN?! WOOOOOOOOOOOOOO... OOOOOOOOT
+
+I made myself nutella toast, watched half an episode of Mad Men, wrote this post, and am debating watching a bit of Your Name... oh what the heck, I'll do it :D 2am baby, that's the way we roll! Also, I'm set for another almost-date with Muriel on Thursday--we're gonna meet here at Culmann, check out the roof deck and drink some beer, and then head out. I'm pretty excited for that.
+
+Cheers all! Night :)
+
