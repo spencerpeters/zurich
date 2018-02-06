@@ -1,0 +1,21 @@
+---
+title: Quantum of Solace
+author: Spencer
+---
+
+I couldn't resist the pun but despite all the quantum studying, today was a pretty social day.
+
+First I had to move out of Giacomo's room back to floor 2+, to Mia's room which was now open for a couple of weeks. This was good because Giacomo, though a delightful roommate, an introspective optimist after my own heart, was getting a bit frazzled with his exams--he was glad to have the room to himself again.
+
+I moved my stuff, vacuumed Giacomo's room, and set to work. I got a good bit of studying in, then decided to go to Uetliberg because the sun was just gorgeous. The train ride was really beautiful, and so was the mountain--there was just a little dusting of snow. I had a nice walk, and debated whether an old model of mine describing my interest in a pursuit over time applied to people and friends, as well. Because I love starting a new sport or dance or whatever, in almost the same way I love meeting a new person--clean slate, lots to learn. I learn really fast and I make good first impressions as far as I can tell. But then there is a middle stage where I know the basics about the pursuit or person and (sometimes) getting to know more about it/them becomes more of a struggle. Often I lose interest (which can be good if there is not a good fit). In the middle stage, you get face to face with details you have a hard time learning/caring about/dealing with and have to get through them somehow.But there are some few pursuits (and people perhaps) that are worth going through the middle bit. For pursuits, this middle bit is about getting things into your System 1, learning relatively unleveraged specifics, trying to find your specialization. Once you've achieved System 1 mastery (or perhaps, are completely comfortable with another person) then you can once again get creative and exploratory, on top of a foundation of solid System 1 patterns and skills. The problem is that, at least for pursuits, and possibly for people, the middle stage is expensive. It's time consuming. It requires focus--you can't go swing dancing every couple months and expect improvement. You have to go a couple times a week so that there is continuity in your learning. Skills and/or conversational topics start to recurse and build on each other after a while and need frequent use.
+
+Anyway, I'm still thinking about this model for pursuits--I'm not sure how good it is. And I'm not sure how good the analogy to people is--it just struck me how similarly I feel about pursuits vs. people and my engagement over time. Sometimes I try to cling to both pursuits and people based on some outdated notion of my personality or the way that I draw meaning from the world. But sometimes I need to muddle through the middle stage. And sometimes I just need to stop introspecting :P I feel like Tolstoy, interrupting this War and Peace saga of my Zürich adventures with random philosophical tangents.
+
+Weirdly enough, after all this hard core introspection on the tram back to Culmann, I joined a raucous group of noobs downstairs and had an absolutely terrific time. Ally, from Australia, and Emily, from Boston, came over and chatted with me while I was eating cereal and cast a critical eye on my QIT textbook. We ended up talking about anthropology, and I recommended them a Swiss restaurant to go to (which many noobs did and I think most liked). I played 1 game of foosball and won with Jerry, the cheerful confident Asian-American? fellow who'd challenged me the other day, against Alexis and another guy from Culmann. The other guy played tough offense and scored 4 goals in a row against me in the beginning. Then I caught his pattern and shut him down--Jerry and I barely scraped a win after that.
+
+I went to study, had a productive couple of hours, almost made it through a whole homework and associated textbook chapter today. If I keep this up, I'll actually be ready. 9 more days to prepare.
+
+Back down, made myself curry. Not as good as last time cuz I kinda threw it together, but it was tasty. Washed it down with a Quollfrisch and hung with the noobs. Played some more foosball, then went up. It was pretty late and I played some chess puzzles instead of studying; then watched Mad Men and wrote this log.
+
+
+
