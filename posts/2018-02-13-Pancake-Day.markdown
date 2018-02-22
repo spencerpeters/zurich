@@ -3,7 +3,7 @@ title: Pancake Day
 author: Spencer
 ---
 
-The day started as many days before it burned into my memory; with an exam. Exam day mornings are filled with color and majesty; we who are about to die, Caesar...
+The day started as many days before it that are burned into my memory; with an exam. Exam day mornings are filled with color and majesty; we who are about to die, Caesar...
 
 I was feeling quite well prepared and decided, after waking up 5 minutes before my alarm, chowing breakfast and caffeine water, and taking the bus to Honggerberg, to shoot a few hoops before the exam. I felt like I was back at WCC--some things never change, and I wouldn't want them to.
 
