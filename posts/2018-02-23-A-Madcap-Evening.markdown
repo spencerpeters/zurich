@@ -1,0 +1,14 @@
+---
+title: A Madcap Evening
+author: Spencer
+---
+
+Today: a whirlwind of a day followed by a madcap night! I woke up, had breakfast, took a little time to consolidate and locate some legit looking places on Yelp. Then I went out towards the city center, the ducal palace and the great cathedral.
+
+The ducal palace was weird. It hosted some Picasso exhibition but it was expensive, and would be cheaper at 2. I thought I'd return (never did). I tried to see some of the other exhibitions there but they were all closed. I went down a creepy staircase that shouldn't have been open and nearly accidentally broke into a closed exhibit #notswitzerland. And in stark contrast to Venice, the palace wasn't too much in itself (or at least I couldn't see so much of it!).
+
+Then I went by the cathedral. The exterior was marvelous. The front had these enormous stone lions with the most poignant expressions. There was a mass inside, so I couldn't go in, but I went in later and the interior was also really amazing. I started wandering around the streets outside and came upon a deserted museum in a weird place. Curiosity prodded me to enter. I went in and got talked into buying a museum card for the day for 12 Euro. Great call. And this odd museum (Domenico?), which was originally a residence of the priests who looked after the cathedral, turned out to be the best I went in all day! They had an amazing collection of beautiful Baroque oil-on-wood paintings which looked just as bright, shiny and colorful now as the must have when they were painted. I was pretty floored. They also had a basement with some Roman pottery and some really old indigo-dyed tapestries showing agony-of-Christ scenes.
+
+After that I headed for the Palazzo Bianco/Rosso and ended up in a cool park with an Oriental museum. I went in (because museum card) and was again astonished! Everything was beautifully laid out on 4 floors, with a gap between sides of the floors rising through all the stories forming an atrium. The stairs were designed such that the only way to traverse the museum was a loop--up and down and up again. Beautiful bronze Buddhas with really moving expressions, wild full samurai armors with savage masks, bronzed dragons and ceremonial pots and vases--man, I would love to have some replicas of those in my future homes. Some of the most beautiful objects I've seen in a long time. (Consult the gallery for photos).
+
+Finally I reached the Palazzo Bianco, and was totally underwhelmed. A huge selection of paintings, but none with the bright immediacy of the oil on wood scenes in the first museum. And the palace was nothing to write home about architecturally. The paintings went on and on. There was a bridge to another palace with yet MORE paintings. Finally I was totally burned out, went outside, and sprinted
