@@ -1,0 +1,16 @@
+---
+title: Hardworking Monday
+author: Spencer
+---
+
+Slept poorly--I'd left my door open for ventilation and had the fan roaring. Though the temperature was fine and the breeze, the noise was disconcerting. Plus, I'd just loaded the tension rod with all my shirts and had a small fear that the whole thing was going to come down on my head. I knew it was relatively light, but still, something of the situation smacked of the Sword of Damocles. I decided to sleep through my 331 lecture to make up for lost sleep, then was rudely awakened by the entrance to Stevens of a maintanence fellow. Thus shocked awake, I breakfasted and showered.
+
+I had a couple of hours before my computational biology meeting and started plugging away at a confusing bug in my 311 homework. I found it after getting a little experience messing around with JUnit--it was a very subtle bug indeed. That done, I quickly plowed through the rest of the polynomial class I was making. I finished the last method, chowed on some lasagna and cucumber with oil and vinegar, then hauled over to CSE for the CompBio meeting.
+
+Katie started out by presenting the question of modelling error that had stymied us. We struggled with that for a bit, getting not too far. That set the tone for a (relatively) disorganized and dissonant meeting. We started talking code organization since we knew we had to get started pretty soon--which brought us back to another confusing point. It's so hard to get anything conceptually firm in a research project :/ We argued about the confusing point for a while, came to an agreement, wrote it up... but I suspected it was wrong. I sat there thinking about it while Katie and Alex sat there working on their projects, bouncing ideas off them in mounting frustration and discomfort. Finally they had to leave, and I was still sitting there thinking. I went into "exploratory writing" mode in our Code Organization doc, and finally, slowly, with the ferocity of a bear lumbering out of its cave, an epiphany came to me. I wrote it up to discuss in class tomorrow, and with satisfaction ran back to Stevens, where I continued working on the homework.
+
+I also invited Winnie to come to see a UW Drama play that Miranda had told me about yesterday. We set the date for Thursday :D which is exciting. Not five minutes after we'd finished setting it up, Trevor looked up across the table and asked me about it. There's so much intertwingling in the friend groups in which I'm enmeshed--it's kinda crazy!
+
+I kept plugging away at the homework and nearly finished it. Took a run and kept going. It was around 8pm, so I grabbed Trevor for dinner before Monday night swing. We went to Zen Noodle and had a terrific dinner, then capped it off by splitting a monstrous Full Tilt ice cream :D We caught the bus to swing right from there.
+
+Miranda was there and everyone was dancing. I had a terrific time, and got in a number of dances with Alex for once--she seemed so much more full of energy. Bussed back, took a shower, wrote this log.
