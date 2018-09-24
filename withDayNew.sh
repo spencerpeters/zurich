@@ -11,3 +11,4 @@ TITLEWITHSPACES=$1
 FILETITLE=${TITLEWITHSPACES// /-}
 RESULT="---\ntitle: $TITLEWITHSPACES\nauthor: Spencer\n---"
 echo -e $RESULT >> "./posts/$INTENDEDDATE-$FILETITLE.markdown"
+sublime "./posts/$INTENDEDDATE-$FILETITLE.markdown"
