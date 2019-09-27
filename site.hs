@@ -18,8 +18,9 @@ main = hakyllWith config $ do
 
     match "images/*" $ do
             route idRoute
-            let args = ["-", "-resize", "200000@", "-"] in
-               compile $ getResourceLBS >>= withItemBody (unixFilterLBS "convert" args)
+	    compile copyFileCompiler
+--            let args = ["-", "-resize", "200000@", "-"] in
+--               compile $ getResourceLBS >>= withItemBody (unixFilterLBS "convert" args)
 --                resize to 200,000 px
 
     match "css/*" $ do
