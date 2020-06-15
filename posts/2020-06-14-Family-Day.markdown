@@ -16,3 +16,10 @@ After that, did a little volleyball practice with sis Iz. We grilled some middle
 [//]: # "Tried to think about what I should do, if eventually I want to have a family. Came away with a depressing sense that the world is broken (again). It's hard to force down my anger at the realization that everyone is operating out of self-interest, and this implies I'll constantly be fighting a significant other, although hopefully not too much. The contrapositive of this is the guilt that I feel from operating out of self interest--as my past self realized, I need to drop this, and things will get a lot easier--hopefully then I can play a fair game, rather than handicapping myself and being angry about it."
 
 Watched episodes of Parasyte and The Office, wrote this log, and hit the hay.
+
+## Gratitude Journal
+1. Cool Hertz article
+2. Wind sprints (weird feeling afterwards, almost like floating)
+3. scribbl.io domination
+4. Tasty shawarma chicken
+5. Fun writing this log!
